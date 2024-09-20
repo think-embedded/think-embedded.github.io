@@ -10,5 +10,5 @@ Outside of the world of tech, I enjoy staying active with sports like **soccer**
 
 Through this blog, I’ll share not just my technical experiences but also my thoughts on personal growth and self-awareness. I hope you’ll join me on this journey as we explore the intersections of **technology**, **mindfulness**, and **creativity**. Thanks for stopping by!
 
-![Profile](/images/thinkembedded.png)
+![Profile](/images/thinkembedded.webp)
 
